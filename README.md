@@ -2,7 +2,6 @@ NIM anggota :
 080
 068
 
-
 How to run (UTS.py)
 Terminal 1
 cd ~/ros2_ws
